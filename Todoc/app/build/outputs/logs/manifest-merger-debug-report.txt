@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d634b2c7b36fa15b076fce44e0bc6a4e\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1fcf5cc0833380f9decd37584316b70d\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\605ed5618f3da76dd7bfcb6b5dbc9374\butterknife-8.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\e04b5349cffe27e72db31d625e1fb0b7\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\2f569c92c068bd5c97f9052a1734fb08\extensions-1.1.1\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\ed9aa405096cde6201b1eccc50a60260\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\a11bbbf57fa5000268f61763d5e77fdf\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\b681b8cb5095baad45b354247c3a2fc0\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\bf9d5aa27c96532d123fd382aa98607a\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1eb8acdece5beccb03e15a49561ada2b\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\0072ef9be250006fd185e16099392ebf\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1b1f039d4773993da7f304fe4f21fd87\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\dd1105f61eae80a71d3f0f23e01aa69b\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\28bb3ab33ef0d8daa3d4ac1c384d9925\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1020d6681d4c5dd4c810f2603f44dd36\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\e27cd1c013da52fd1d0e742e61b20e1d\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\62618a2c109cfd63e635b2fe9a8d26c7\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\9543a72252dbe796acef77108493f0f7\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\c69ebdb7b33e8a5ef6e539a915c69089\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\4d6877adf425a91005dbb109ae6e77ed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\69132ff6c658ec29ac7a3bcb10465ada\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\4019bb418437553e66cf94f605ccb51b\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\ca1fdd2666acd8313e239ed7c3ff5af9\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\6f08c6fa09233d66d8efa302935dcd90\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\039d0971a3c82f130bc1ed8ebe81f099\db-framework-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\edc8ab7162c43ecc58d2ddc3db5e9058\db-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\90358b77ac119000666943fb8242a2b0\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\6565122aef9a255612ad4b854e2fe3ce\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d6321de5c794602b2bae9867b0c73eff\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\5820f68f96b32d1bcccbd60169601d4d\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d140d2c28ac347101f6ae26d78c53934\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\f0bb6bdce194ea1cd45365864cd81505\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\eda9b2c8c35f24312431460d0f5f6c65\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\ea7004b0d6200e2572cb555a59bf0018\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\13fcfd859eab9968ffed778d4db4bd1e\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+	package
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:6:5-22:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d634b2c7b36fa15b076fce44e0bc6a4e\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d634b2c7b36fa15b076fce44e0bc6a4e\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\2f569c92c068bd5c97f9052a1734fb08\extensions-1.1.1\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\2f569c92c068bd5c97f9052a1734fb08\extensions-1.1.1\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\69132ff6c658ec29ac7a3bcb10465ada\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\69132ff6c658ec29ac7a3bcb10465ada\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\4019bb418437553e66cf94f605ccb51b\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\4019bb418437553e66cf94f605ccb51b\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\69132ff6c658ec29ac7a3bcb10465ada\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:13:9-48
+	android:roundIcon
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.cleanup.todoc.ui.MainActivity
+ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:label
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:15:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d634b2c7b36fa15b076fce44e0bc6a4e\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d634b2c7b36fa15b076fce44e0bc6a4e\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1fcf5cc0833380f9decd37584316b70d\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1fcf5cc0833380f9decd37584316b70d\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\605ed5618f3da76dd7bfcb6b5dbc9374\butterknife-8.8.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\605ed5618f3da76dd7bfcb6b5dbc9374\butterknife-8.8.1\AndroidManifest.xml:5:5-43
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\e04b5349cffe27e72db31d625e1fb0b7\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\e04b5349cffe27e72db31d625e1fb0b7\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\2f569c92c068bd5c97f9052a1734fb08\extensions-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\2f569c92c068bd5c97f9052a1734fb08\extensions-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\ed9aa405096cde6201b1eccc50a60260\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\ed9aa405096cde6201b1eccc50a60260\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\a11bbbf57fa5000268f61763d5e77fdf\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\a11bbbf57fa5000268f61763d5e77fdf\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\b681b8cb5095baad45b354247c3a2fc0\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\b681b8cb5095baad45b354247c3a2fc0\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\bf9d5aa27c96532d123fd382aa98607a\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\bf9d5aa27c96532d123fd382aa98607a\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1eb8acdece5beccb03e15a49561ada2b\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1eb8acdece5beccb03e15a49561ada2b\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\0072ef9be250006fd185e16099392ebf\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\0072ef9be250006fd185e16099392ebf\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1b1f039d4773993da7f304fe4f21fd87\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1b1f039d4773993da7f304fe4f21fd87\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\dd1105f61eae80a71d3f0f23e01aa69b\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\dd1105f61eae80a71d3f0f23e01aa69b\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\28bb3ab33ef0d8daa3d4ac1c384d9925\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\28bb3ab33ef0d8daa3d4ac1c384d9925\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1020d6681d4c5dd4c810f2603f44dd36\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1020d6681d4c5dd4c810f2603f44dd36\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\e27cd1c013da52fd1d0e742e61b20e1d\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\e27cd1c013da52fd1d0e742e61b20e1d\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\62618a2c109cfd63e635b2fe9a8d26c7\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\62618a2c109cfd63e635b2fe9a8d26c7\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\9543a72252dbe796acef77108493f0f7\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\9543a72252dbe796acef77108493f0f7\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\c69ebdb7b33e8a5ef6e539a915c69089\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\c69ebdb7b33e8a5ef6e539a915c69089\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\4d6877adf425a91005dbb109ae6e77ed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\4d6877adf425a91005dbb109ae6e77ed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\69132ff6c658ec29ac7a3bcb10465ada\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\69132ff6c658ec29ac7a3bcb10465ada\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\4019bb418437553e66cf94f605ccb51b\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\4019bb418437553e66cf94f605ccb51b\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\ca1fdd2666acd8313e239ed7c3ff5af9\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\ca1fdd2666acd8313e239ed7c3ff5af9\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\6f08c6fa09233d66d8efa302935dcd90\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\6f08c6fa09233d66d8efa302935dcd90\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\039d0971a3c82f130bc1ed8ebe81f099\db-framework-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\039d0971a3c82f130bc1ed8ebe81f099\db-framework-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\edc8ab7162c43ecc58d2ddc3db5e9058\db-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\edc8ab7162c43ecc58d2ddc3db5e9058\db-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\90358b77ac119000666943fb8242a2b0\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\90358b77ac119000666943fb8242a2b0\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\6565122aef9a255612ad4b854e2fe3ce\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\6565122aef9a255612ad4b854e2fe3ce\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d6321de5c794602b2bae9867b0c73eff\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d6321de5c794602b2bae9867b0c73eff\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\5820f68f96b32d1bcccbd60169601d4d\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\5820f68f96b32d1bcccbd60169601d4d\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d140d2c28ac347101f6ae26d78c53934\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d140d2c28ac347101f6ae26d78c53934\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\f0bb6bdce194ea1cd45365864cd81505\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\f0bb6bdce194ea1cd45365864cd81505\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\eda9b2c8c35f24312431460d0f5f6c65\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\eda9b2c8c35f24312431460d0f5f6c65\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\ea7004b0d6200e2572cb555a59bf0018\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\ea7004b0d6200e2572cb555a59bf0018\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\13fcfd859eab9968ffed778d4db4bd1e\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\13fcfd859eab9968ffed778d4db4bd1e\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\2f569c92c068bd5c97f9052a1734fb08\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\2f569c92c068bd5c97f9052a1734fb08\extensions-1.1.1\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\2f569c92c068bd5c97f9052a1734fb08\extensions-1.1.1\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\2f569c92c068bd5c97f9052a1734fb08\extensions-1.1.1\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\2f569c92c068bd5c97f9052a1734fb08\extensions-1.1.1\AndroidManifest.xml:24:13-83
