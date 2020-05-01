@@ -1,0 +1,7 @@
+#Fri May 01 21:30:53 CEST 2020
+base.0=D\:\\Formation\\PRFE\\Cours\\Project 5\\P5_01_code\\Process\\Todoc\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Formation\\PRFE\\Cours\\Project 5\\P5_01_code\\Process\\Todoc\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
