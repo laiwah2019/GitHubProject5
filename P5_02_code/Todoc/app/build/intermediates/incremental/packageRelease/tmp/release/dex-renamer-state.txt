@@ -1,0 +1,4 @@
+#Sat May 02 16:55:43 CEST 2020
+base.0=D\:\\Formation\\PRFE\\Cours\\Project 5\\P5_01_code\\Process\\Todoc\\app\\build\\intermediates\\dex\\release\\shrunkDex\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

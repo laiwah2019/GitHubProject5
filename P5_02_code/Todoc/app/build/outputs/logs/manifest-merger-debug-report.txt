@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
-INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
-INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
-INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d634b2c7b36fa15b076fce44e0bc6a4e\design-28.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1fcf5cc0833380f9decd37584316b70d\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\605ed5618f3da76dd7bfcb6b5dbc9374\butterknife-8.8.1\AndroidManifest.xml:2:1-7:12
@@ -39,27 +39,27 @@ MERGED from [com.android.support:documentfile:28.0.0] C:\Users\laiwa\.gradle\cac
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\eda9b2c8c35f24312431460d0f5f6c65\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\ea7004b0d6200e2572cb555a59bf0018\print-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\13fcfd859eab9968ffed778d4db4bd1e\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
-INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
-INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
 	package
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:3:5-32
-		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
-		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:2:5-51
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:2:5-51
 	android:versionCode
-		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
-		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:1:1-23:12
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:1:11-69
 application
-ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:6:5-22:19
+ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:6:5-22:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d634b2c7b36fa15b076fce44e0bc6a4e\design-28.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d634b2c7b36fa15b076fce44e0bc6a4e\design-28.0.0\AndroidManifest.xml:22:5-20
 MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\2f569c92c068bd5c97f9052a1734fb08\extensions-1.1.1\AndroidManifest.xml:22:5-28:19
@@ -71,39 +71,39 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\laiwa\.gra
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\69132ff6c658ec29ac7a3bcb10465ada\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:9:9-41
 	tools:ignore
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:13:9-48
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:13:9-48
 	android:roundIcon
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:7:9-36
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:7:9-36
 	android:theme
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:12:9-40
 activity#com.cleanup.todoc.ui.MainActivity
-ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:14:9-21:20
+ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:14:9-21:20
 	android:label
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:16:13-45
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:16:13-45
 	android:name
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:15:13-44
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:15:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:17:13-20:29
+ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN
-ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:19:27-74
 uses-sdk
-INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
-INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
+INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d634b2c7b36fa15b076fce44e0bc6a4e\design-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\d634b2c7b36fa15b076fce44e0bc6a4e\design-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\1fcf5cc0833380f9decd37584316b70d\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
@@ -174,16 +174,16 @@ MERGED from [com.android.support:print:28.0.0] C:\Users\laiwa\.gradle\caches\tra
 MERGED from [com.android.support:print:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\ea7004b0d6200e2572cb555a59bf0018\print-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\13fcfd859eab9968ffed778d4db4bd1e\interpolator-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\13fcfd859eab9968ffed778d4db4bd1e\interpolator-28.0.0\AndroidManifest.xml:20:5-44
-INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
-INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
+INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
-		ADDED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
+		ADDED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
 provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\2f569c92c068bd5c97f9052a1734fb08\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
 	android:authorities

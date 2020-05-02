@@ -6,43 +6,43 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+8-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml
+9-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml
 10    <!-- Ignore GoogleAppIndexingWarning is safe because we don't want the app to be indexable -->
 11    <application
-11-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:6:5-22:19
+11-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:6:5-22:19
 12        android:allowBackup="false"
-12-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:7:9-36
+12-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:7:9-36
 13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
 13-->[com.android.support:support-compat:28.0.0] C:\Users\laiwa\.gradle\caches\transforms-2\files-2.1\69132ff6c658ec29ac7a3bcb10465ada\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:8:9-43
+15-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:8:9-43
 16        android:label="@string/app_name"
-16-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:9:9-41
+16-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:9:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:10:9-54
+17-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:10:9-54
 18        android:supportsRtl="true"
-18-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:11:9-35
+18-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:11:9-35
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
-20-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:12:9-40
+20-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:12:9-40
 21        <activity
-21-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:14:9-21:20
+21-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:14:9-21:20
 22            android:name="com.cleanup.todoc.ui.MainActivity"
-22-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:15:13-44
+22-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:15:13-44
 23            android:label="@string/app_name" >
-23-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:16:13-45
+23-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:16:13-45
 24            <intent-filter>
-24-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:17:13-20:29
+24-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:17:13-20:29
 25                <action android:name="android.intent.action.MAIN" />
-25-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:18:17-69
-25-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:18:25-66
+25-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:18:17-69
+25-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:18:25-66
 26
 27                <category android:name="android.intent.category.LAUNCHER" />
-27-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:19:17-77
-27-->D:\Formation\PRFE\Cours\Project 5\P5_01_code\Process\Todoc\app\src\main\AndroidManifest.xml:19:27-74
+27-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:19:17-77
+27-->D:\Formation\PRFE\Cours\Project 5\Livrable\P5_02_code\Todoc\app\src\main\AndroidManifest.xml:19:27-74
 28            </intent-filter>
 29        </activity>
 30
